@@ -1,0 +1,5 @@
+Optional personal audio files:
+- voice-note.mp3
+- maya-pheri.mp3 (only if you have permission/right to use it)
+
+The experience still works when these files are absent.
